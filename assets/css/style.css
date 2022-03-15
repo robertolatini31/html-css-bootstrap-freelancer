@@ -1,5 +1,7 @@
 :root {
     --secondary-color: #2C3E50;
+    --primary-color: #1ABC9C;
+    --info-bgcolor: #3A546D;
 
 }
 
@@ -23,8 +25,22 @@ header {
 
 /* #region *** Main ***  */
 
+.hero ,
+.about
+{
+    background-color: var(--primary-color);
+}
+
+.info {
+    background-color: var(--info-bgcolor);
+}
+
 /* #endregion *** Main ***  */
 
 /* #region *** Footer ***  */
+
+footer {
+    background-color: var(--secondary-color);
+}
 
 /* #endregion *** Footer ***  */
