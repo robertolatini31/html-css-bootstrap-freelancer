@@ -85,5 +85,9 @@ header {
 footer {
     background-color: var(--secondary-color);
 }
+footer button {
+    height: 3rem;
+    width: 3rem;
+}
 
 /* #endregion *** Footer ***  */
