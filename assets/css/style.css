@@ -28,6 +28,10 @@ img {
     font-size: 1rem;
 }
 
+.p_small {
+    padding: 2px;
+}
+
 /* #endregion *** Utility ***  */
 
 /* #region *** Header ***  */
