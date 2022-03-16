@@ -32,6 +32,10 @@ img {
     padding: 2px;
 }
 
+.bg_primary {
+    background-color: var(--primary-color);
+}
+
 .bg_secondary {
     background-color: var(--secondary-color);
 }
