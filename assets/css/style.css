@@ -32,6 +32,13 @@ img {
     padding: 2px;
 }
 
+.bg_secondary {
+    background-color: var(--secondary-color);
+}
+
+.color_secondary {
+    color: var(--secondary-color);
+}
 /* #endregion *** Utility ***  */
 
 /* #region *** Header ***  */
